@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogRossov</string>
+    <string name="btnfon">Выбрать фон</string>
+    <string name="message">Сменить фон</string>
+    <color name="violetC">#8b00ff </color>
+    <color name="blueC">#0000ff</color>
+    <color name="greenC">#00FF00</color>
+    <string name="violet">Фиолетовый</string>
+    <string name="blue">Синий</string>
+    <string name="green">Зелёный</string>
+</resources>
